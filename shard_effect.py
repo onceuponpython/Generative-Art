@@ -4,7 +4,7 @@ Created on Sun Aug 25 09:55:52 2019
 replace pine needles with target photo
 so pine needles are replaced by target photo pixels
 gives the effect of photo shards
-@author: Owner
+@author Liz J Goldstein: Owner
 """
 
 from PIL import Image 
