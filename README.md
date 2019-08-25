@@ -1,2 +1,3 @@
 # Generative Art
- Generative Art for Coding Beginners
+ Generative Art for Python Coding Beginners
+ 
