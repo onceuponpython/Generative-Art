@@ -27,7 +27,7 @@ raw_output1=plant
 height=raw_output1.height
 width=raw_output1.width
 
-#load data regarding green screen so faster processing
+#load data so faster processing
 img_load = img.load()
 plant_load = plant.load()
 
